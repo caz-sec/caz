@@ -7,6 +7,8 @@
 
 ### About me 💯
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3823782" style='border:none;'></iframe>
+
 - 🔭 I'm currently working on **what's next**.
 - 🎓 Currently studying Cyber Security && Networking at **Leeds city college, England**.
 - ❤️ I'm really passionate about **Reverse Engineering, Malware Analysis, Penetration Testing**.
