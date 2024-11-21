@@ -7,7 +7,7 @@
 
 ### About me 💯
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3823782" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/revsec.png" alt="Your Image Badge" />
 
 - 🔭 I'm currently working on **what's next**.
 - 🎓 Currently studying Cyber Security && Networking at **Leeds city college, England**.
